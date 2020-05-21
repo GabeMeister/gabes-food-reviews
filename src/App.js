@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
   return (
-    <h1 style={{ textAlign: 'center' }}>Welcome to Gabes Food Reviews. You made it.</h1>
+    <h2 style={{ textAlign: 'center' }}>Home to the most brutally honest food reviews you'll ever read.</h2>
   );
 }
 
